@@ -1,0 +1,279 @@
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\AutoMapper.Net4.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\csc.exe
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\csc.exe.config
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\csc.rsp
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\csi.exe
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\csi.rsp
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.AppContext.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\vbc.exe
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\vbc.exe.config
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\vbc.rsp
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\test25mvc.dll.config
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\test25mvc.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\test25mvc.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\AutoMapper.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\businesslogic.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ClientDependency.Core.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ClientDependency.Core.Mvc.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\cms.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\controls.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\CookComputing.XmlRpcV2.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Examine.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\HtmlAgilityPack.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ImageProcessor.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ImageProcessor.Web.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\interfaces.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\log4net.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Lucene.Net.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\MarkdownSharp.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\MiniProfiler.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\MySql.Data.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Newtonsoft.Json.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Owin.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Semver.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\SQLCE4Umbraco.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Collections.Immutable.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Data.SqlServerCe.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Reflection.Metadata.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Helpers.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Http.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Mvc.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Razor.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\TidyNet.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.Core.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.DataLayer.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.editorControls.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.MacroEngines.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.ModelsBuilder.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.providers.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.Web.UI.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\UmbracoExamine.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\AutoMapper.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\AutoMapper.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\AutoMapper.Net4.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\businesslogic.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ClientDependency.Core.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\cms.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\controls.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Examine.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\HtmlAgilityPack.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\HtmlAgilityPack.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\interfaces.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Lucene.Net.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\MiniProfiler.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\MiniProfiler.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Newtonsoft.Json.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\SQLCE4Umbraco.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Collections.Immutable.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Reflection.Metadata.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Http.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.Core.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.DataLayer.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.editorControls.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.MacroEngines.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.ModelsBuilder.pdb
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\umbraco.providers.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\Umbraco.Web.UI.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\UmbracoExamine.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Razor.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Helpers.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\bin\System.Web.Mvc.xml
+C:\Users\melih\Desktop\test25mvc\test25mvc\obj\Debug\test25mvc.dll
+C:\Users\melih\Desktop\test25mvc\test25mvc\obj\Debug\test25mvc.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\csc.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\csc.exe.config
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\csc.rsp
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\csi.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\csi.rsp
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.AppContext.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.IO.FileSystem.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\vbc.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\vbc.exe.config
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\vbc.rsp
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\VBCSCompiler.exe
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\AutoMapper.Net4.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\test25mvc.dll.config
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\test25mvc.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\test25mvc.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\AutoMapper.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\businesslogic.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ClientDependency.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ClientDependency.Core.Mvc.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\cms.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\controls.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\CookComputing.XmlRpcV2.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Examine.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\HtmlAgilityPack.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ICSharpCode.SharpZipLib.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ImageProcessor.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ImageProcessor.Web.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\interfaces.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\log4net.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Lucene.Net.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\MarkdownSharp.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\MiniProfiler.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\MySql.Data.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Newtonsoft.Json.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Owin.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Semver.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\SQLCE4Umbraco.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Collections.Immutable.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Data.SqlServerCe.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Data.SqlServerCe.Entity.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Net.Http.Formatting.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Reflection.Metadata.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Helpers.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Http.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Http.WebHost.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Mvc.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Razor.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.Deployment.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.Razor.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\TidyNet.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.Core.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.DataLayer.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.editorControls.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.MacroEngines.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.ModelsBuilder.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.providers.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.Web.UI.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\UmbracoExamine.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\UrlRewritingNet.UrlRewriter.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\AutoMapper.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\AutoMapper.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\AutoMapper.Net4.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\businesslogic.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ClientDependency.Core.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\ClientDependency.Core.Mvc.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\cms.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\controls.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Examine.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\HtmlAgilityPack.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\HtmlAgilityPack.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\interfaces.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Lucene.Net.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\MiniProfiler.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\MiniProfiler.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Newtonsoft.Json.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\SQLCE4Umbraco.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Collections.Immutable.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Net.Http.Formatting.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Reflection.Metadata.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Http.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Http.WebHost.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.Core.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.DataLayer.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.editorControls.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.MacroEngines.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.ModelsBuilder.pdb
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\umbraco.providers.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\Umbraco.Web.UI.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\UmbracoExamine.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Razor.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.Deployment.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Webpages.Razor.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Helpers.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\bin\System.Web.Mvc.xml
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\obj\Debug\test25mvc.csprojResolveAssemblyReference.cache
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\obj\Debug\test25mvc.dll
+E:\ana dosya\OKUNACAKLAR\programlama\PROGRAMLAMA VE ALGORİTMALAR\C#\umbraco gerekli bilgiler\test25mvc\test25mvc\obj\Debug\test25mvc.pdb
