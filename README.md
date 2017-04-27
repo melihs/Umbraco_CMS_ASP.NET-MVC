@@ -1,15 +1,12 @@
 # Umbraco kurulumu
 Visula studio da yeni proje olarak web application seçin.<br>
-Şablon olarak empty,core referance ise MVC olsun.Proje açıldıktan sonra ister nuget package manager den isterseniz de package Manager
+Şablon olarak empty,core referance ise MVC olsun.Proje açıldıktan sonra ister nuget package manager kullanarak isterseniz de package Manager
 Console a şu komutu yazarak: ``` Install-Package UmbracoCms``` Umbraco yu projenize dahil edin.
-Install-Package UmbracoCms yaz yüklenmeye başlasın
-sonuna doğru bir soru soracak global.asax ın üzerine web.config yazılsın mı diye
-cevap olarak console a ```Y``` yazıp enter a basın.(Özellikle core referance ı MVC yaptığınızda bu soru karşınıza çıkıyor, farklı bir
-seçenekte console ekrananında bu soru çıkmıyor. Daha sonra solution explorer(klasör penceresi sağda)show all files deyip,
-şu klasörleri seç<br>
+Umbraco ve bileşenleri yüklenmesinden sonra console ekranında, global.asax ın üzerine web.config yazılsın mı? diye bir soruyla karşılaşacaksınız.Cevap olarak ```Y``` komutunu vermelisiniz.(Özellikle core referance ı MVC yaptığınızda bu soru karşınıza çıkıyor, farklı bir seçenekte console ekrananında bu soru çıkmıyor. Daha sonra solution explorer(klasör penceresi sağda)show all files seçeneğiyle
+şu klasörleri seçip<br>
 **Umbraca**<br>
 **Umbraco_Client**<br>
-ve sağ tıklayarak include project deyip uygulamamıza bu klasörleri ekleriz. Sonra Build yapıp uygulamayı debug ederek Umbraco CMS i kurmaya başlarız.
+include ederek, uygulamamıza bu klasörleri ekleriz.Son olarak da projemizi derleyerek Umbraco CMS i kurmaya başlarız.
 
 **NOT**:Visual Studio da REsharper varsa, kapalı olması lazım uyumsuzluk çıkartıyor<br>
 
