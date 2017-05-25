@@ -1,5 +1,5 @@
 # Umbraco kurulumu
-Visula studio da yeni proje olarak web application seçin.<br>
+Visual studio da yeni proje olarak web application seçin.<br>
 Şablon olarak empty,core referance ise MVC olsun.Proje açıldıktan sonra ister nuget package manager kullanarak isterseniz de package Manager
 Console a şu komutu yazarak: ``` Install-Package UmbracoCms``` Umbraco yu projenize dahil edin.
 Umbraco ve bileşenleri yüklenmesinden sonra console ekranında, global.asax ın üzerine web.config yazılsın mı? diye bir soruyla karşılaşacaksınız.Cevap olarak ```Y``` komutunu vermelisiniz.(Özellikle core referance ı MVC yaptığınızda bu soru karşınıza çıkıyor, farklı bir seçenekte console ekrananında bu soru çıkmıyor. Daha sonra solution explorer(klasör penceresi sağda)show all files seçeneğiyle
